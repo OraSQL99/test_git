@@ -2,3 +2,4 @@
 
 PUlling down changes
 
+only on the remote repository
